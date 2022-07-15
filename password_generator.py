@@ -19,7 +19,7 @@ while True:
             for i in range(0,longeurmdp):
                 cmdp = random.choice(caractere)
                 mdp = mdp +cmdp
-            print('Votre mot de passe est :', mdp)
+            print('Votre mot de passe est / Your password is :', mdp)
 
     elif caractere_speciaux_ask == 'n':
         for i in range(0,nombredemdp):
