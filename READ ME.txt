@@ -1,0 +1,1 @@
+"oui" for yes and "non" for no
